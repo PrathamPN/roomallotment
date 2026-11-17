@@ -1,0 +1,8 @@
+{
+  "name": "ProctorGrid",
+  "description": "Automated exam room allocation system with anti-malpractice interleaved seating, student seat lookup, and real-time multi-center availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
